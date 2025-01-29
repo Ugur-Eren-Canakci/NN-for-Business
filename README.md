@@ -8,4 +8,3 @@ Preprocessing step involves:
 
 Model fitting step involves simply setting up the model layers and then training it.
 
-Model parameters and the original dataset are also in this repo, if you would like to test it yourself.
